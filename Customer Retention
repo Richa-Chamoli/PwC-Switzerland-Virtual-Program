@@ -1,9 +1,0 @@
-Objective:
-To create a dashboard for the Retention Manager of a company which will give an insight about the churning of customers and how they can be retained.
-
-Data Source:
-Provided by PwC and Forage.
-
-
-Task performed:
-I started the task with exporting the data into power bi then did the transformation in power query editor where I cleaned the data. I changed the data types, removed blank entries, added some extra columns and finally loaded the data into power bi desktop. There I created sone measures using Dax functions and then finally created a dashboard. 
