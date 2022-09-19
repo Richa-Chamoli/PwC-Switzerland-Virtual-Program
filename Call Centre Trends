@@ -1,0 +1,16 @@
+Objective:
+To get data driven insights and an accurate overview of trends in customer and agent behaviour using visuals.
+
+Data Source:
+The dataset was provided by PWC and forage.
+
+Tools Used:
+Power BI( ETL Process )
+
+Tasks Performed:
+I started with first assessing the dataset then exporting the dataset into power bi. After that I did transformation part where I cleaned the data which is the most important and time consuming work before starting any analysis. I changed the data types wherever required, deleted the blank entries and added a column. Finally I loaded the cleaned data into power bi desktop where I created some measures and then using different visuals createdreated an interactive dashboard which will give all the answers the call centre company needs.
+
+Final Dashboard:
+
+Conclusion:
+
